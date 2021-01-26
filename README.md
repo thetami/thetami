@@ -13,5 +13,3 @@ Unit.
 Unit who?
 
 Unit testing in your code base!
-
-The pinned repositories are a sample of projects I've been working on during the Software Engineering Bootcamp some time ago.
