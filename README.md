@@ -1,3 +1,3 @@
-### Hi, I'm Tami
+### Hi, I'm Tami 👋
 
-I am a bilingual Software Engineer (German native living in the UK) with a passion for tech & people
+I'm a Software Engineer - focusing on the beauty and challenges of bringing modern Frontends to life - who enjoys continuous learning, mentoring and working with great people!
